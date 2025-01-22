@@ -19,7 +19,6 @@ Extract personal information from PDF documents automatically. Upload PDFs and g
 cd pdf-extractor-backend
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
-npm install
 ```
 
 ### Frontend Setup
