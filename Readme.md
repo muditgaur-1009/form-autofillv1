@@ -51,6 +51,7 @@ Application runs on http://localhost:3000
 - PDF Processing: pdf-parse
 - NLP: natural
 
+![preview](image.png)
 ## Project Structure
 ```
 project-root/
