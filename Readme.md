@@ -8,6 +8,8 @@ Extract personal information from PDF documents automatically. Upload PDFs and g
 - Real-time data display
 - Input validation and error handling
 
+![preview](image.png)
+
 ## Prerequisites
 - Node.js v14+
 - npm v6+
@@ -51,7 +53,7 @@ Application runs on http://localhost:3000
 - PDF Processing: pdf-parse
 - NLP: natural
 
-![preview](image.png)
+
 ## Project Structure
 ```
 project-root/
